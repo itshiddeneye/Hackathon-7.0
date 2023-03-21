@@ -1,0 +1,40 @@
+body{
+  margin:auto;
+}
+h1{
+  font-size: 4vw;
+  margin:0 0  0 0;
+  font-family: Montserrat;
+}
+.h1-para{
+  text-align: center;
+  background: rgb(253,156,45);
+background: linear-gradient(0deg, rgba(253,156,45,1) 0%, rgba(203,80,255,1) 97%);
+
+}
+.nextpage-para{
+  padding: 4%;
+  font-size: 3vw;
+  margin:0;
+  font-family: Nunito;
+}
+.row{
+  background: transparent;
+}
+.column {
+  float: left;
+  width: 50%;
+  font-size: 1.5vw;
+  text-align: center;
+  padding:3% 0 4% 0;
+  background: transparent;
+  background: rgb(203,80,255);
+  background: linear-gradient(0deg, rgba(203,80,255,1) 0%, rgba(253,156,45,1) 100%);
+
+}
+a{
+  background: transparent;
+  text-decoration: none;
+  color: black;
+  font-family: Nunito;
+}
